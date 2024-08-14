@@ -122,13 +122,6 @@ body #s1 .continer .video_frame .video_box .play_button button {
   background-color: rgba(134, 134, 134, 0.478);
   color: white;
 }
-@media screen and (min-width: 1920px) {
-  body #s1 .continer .video_frame .video_box .video_box {
-    width: 70%;
-    height: 600px;
-    background-color: red;
-  }
-}
 body #s1 .continer .rating {
   width: 4rem;
   height: 15rem;
