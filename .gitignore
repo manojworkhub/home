@@ -1,26 +1,5 @@
-# Ignore node_modules directory
-node_modules/
 
-# Ignore .env files (if you have any environment variables)
-.env
+node_modules/*
 
-# Ignore build or distribution directories (if applicable)
-dist/
-build/
 
-# Ignore SASS cache files
-.sass-cache/
 
-# Ignore coverage directory (if you use a tool like Jest for testing)
-coverage/
-
-# Ignore log files
-*.log
-
-# Ignore OS-specific files
-.DS_Store
-Thumbs.db
-
-# Ignore IDE-specific files
-.vscode/
-.idea/
